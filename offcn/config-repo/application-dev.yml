@@ -26,7 +26,8 @@ eureka:
       defaultZone: http://localhost:10086/eureka,http://localhost:10087/eureka
       
       
-ProviderVersion: 服务提供者001---版本1.0--Update
+ProviderVersion: 服务提供者001---版本1.0--UpdateNew
+
 
 
 
